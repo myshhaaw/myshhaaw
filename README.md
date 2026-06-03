@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="Download Pink_ Neon_ Stars_ Background Wallpaper _ Wallpapers_com.jpg" width="100%"/>
+
 # 𝙼𝚈𝚂𝙷𝙰.exe 👾
 
 ```python
@@ -59,6 +61,7 @@ ML recommendation system using clustering and logistic regression.
 
 ## 📈 GITHUB_STATS
 
-![](https://github-readme-stats.vercel.app/api?username=myshhaaw\&show_icons=true\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=myshhaaw\&show_icons=true\&theme=radical\&hide_border=true\&bg_color=00000000)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=myshhaaw\&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=myshhaaw\&theme=radical\&hide_border=true\&background=00000000)
+
