@@ -44,6 +44,11 @@ focus:
 * Git
 * NumPy
 * Pandas
+* <div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,java,git,vscode" />
+
+</div>
 
 ---
 
@@ -64,3 +69,5 @@ ML recommendation system using clustering and logistic regression.
 ![](https://github-readme-stats.vercel.app/api?username=myshhaaw\&show_icons=true\&theme=radical\&hide_border=true\&bg_color=00000000)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=myshhaaw\&theme=radical\&hide_border=true\&background=00000000)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=myshhaaw&theme=react-dark&hide_border=true&bg_color=00000000)
