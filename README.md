@@ -51,7 +51,7 @@ focus:
 
 ### 🧬 NEUROSCAN
 
-Parkinson’s Disease Detection System using MRI scans and ResNet-50.
+Parkinson’s Early Disease Detection System a multimodel using MRI scans , video tremors and scribble tests
 
 ### 📊 INTERNGO
 
