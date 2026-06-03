@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**myshhaaw/myshhaaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 𝙼𝚈𝚂𝙷𝙰.exe 👾
 
-Here are some ideas to get you started:
+```python
+while(alive):
+    build()
+    train_model()
+    drink_coffee()
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI / ML • Generative AI • Deep Learning
+
+</div>
+
+---
+
+## 🧠 ABOUT_ME
+
+```yaml
+name: Mysha Abrol
+role: AI / ML Engineer
+location: Noida, India
+
+focus:
+  - Deep Learning
+  - Generative AI
+  - Computer Vision
+  - Neural Networks
+```
+
+---
+
+## ⚙️ TECH_STACK
+
+* Python
+* TensorFlow
+* PyTorch
+* Scikit-learn
+* CNNs
+* Streamlit
+* Git
+* NumPy
+* Pandas
+
+---
+
+## 🚀 PROJECTS
+
+### 🧬 NEUROSCAN
+
+Parkinson’s Disease Detection System using MRI scans and ResNet-50.
+
+### 📊 INTERNGO
+
+ML recommendation system using clustering and logistic regression.
+
+---
+
+## 📈 GITHUB_STATS
+
+![](https://github-readme-stats.vercel.app/api?username=myshhaaw\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=myshhaaw\&theme=tokyonight)
