@@ -1,19 +1,8 @@
-<div align="center">
 
-<img src="banner.png.jpg" width="100%"/>
 
 # 𝙼𝚈𝚂𝙷𝙰.exe 👾
 
-```python
-while(alive):
-    build()
-    train_model()
-    drink_coffee()
-```
-
 AI / ML • Generative AI • Deep Learning
-
-</div>
 
 ---
 
