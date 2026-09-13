@@ -1,62 +1,94 @@
+# Mysha Abrol
 
+### AI/ML Engineer · Generative AI · Deep Learning
 
-# 𝙼𝚈𝚂𝙷𝙰.exe 👾
+I build intelligent systems that turn machine learning research into
+usable products.
 
-AI / ML • Generative AI • Deep Learning
-
----
-
-## 🧠 ABOUT_ME
-
-```yaml
-name: Mysha Abrol
-role: AI / ML Engineer
-location: Noida, India
-
-focus:
-  - Deep Learning
-  - Generative AI
-  - Computer Vision
-  - Neural Networks
-```
+Currently focused on:
+- Generative AI & LLM applications
+- Deep Learning & Computer Vision
+- Multimodal AI
+- ML systems and deployment
 
 ---
 
-## ⚙️ TECH_STACK
+## 🚀 Featured Projects
 
-* Python
-* TensorFlow
-* PyTorch
-* Scikit-learn
-* CNNs
-* Streamlit
-* Git
-* NumPy
-* Pandas
-* <div align="center">
+### 🧠 NeuroScan
+**Multimodal Parkinson's Disease Detection System**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,java,git,vscode" />
+An experimental multimodal ML system combining:
+- MRI image analysis
+- Tremor/video analysis
+- Handwriting & scribble analysis
+- Multimodal prediction
 
-</div>
+**Stack:** Python · PyTorch · CNNs · Computer Vision · Streamlit
+
+[View Project →](YOUR_LINK)
 
 ---
 
-## 🚀 PROJECTS
+### 💼 InternGo
+**Intelligent Internship Recommendation System**
 
-### 🧬 NEUROSCAN
+A recommendation engine that matches users with relevant
+internship opportunities using machine learning.
 
-Parkinson’s Early Disease Detection System a multimodel using MRI scans , video tremors and scribble tests
+**Stack:** Python · Scikit-learn · Clustering · Logistic Regression · Pandas
 
-### 📊 INTERNGO
-
-ML recommendation system using clustering and logistic regression.
+[View Project →](YOUR_LINK)
 
 ---
 
-## 📈 GITHUB_STATS
+### 🌐 AWS Route 53 Clone
+**DNS Management & Routing Platform**
 
-![](https://github-readme-stats.vercel.app/api?username=myshhaaw\&show_icons=true\&theme=radical\&hide_border=true\&bg_color=00000000)
+A full-stack implementation inspired by AWS Route 53,
+designed to understand DNS records, routing logic and
+cloud-style infrastructure.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=myshhaaw\&theme=radical\&hide_border=true\&background=00000000)
+**Stack:** Python · FastAPI · React · AWS · Docker
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=myshhaaw&theme=react-dark&hide_border=true&bg_color=00000000)
+[View Project →](YOUR_LINK)
+
+---
+
+## 🧰 Technical Skills
+
+**Languages**
+Python · C++ · JavaScript
+
+**Machine Learning**
+Scikit-learn · Regression · Clustering · Classification
+
+**Deep Learning**
+PyTorch · TensorFlow · CNNs · Neural Networks
+
+**AI**
+Generative AI · LLM Applications · Computer Vision · NLP
+
+**Data**
+NumPy · Pandas · Matplotlib
+
+**Development**
+Git · GitHub · Streamlit · FastAPI · REST APIs
+
+**Cloud & Deployment**
+AWS · Docker
+
+---
+
+## 🧪 What I Like Building
+
+```text
+AI Research
+    ↓
+Machine Learning Model
+    ↓
+Backend / API
+    ↓
+Product Interface
+    ↓
+Deployment
