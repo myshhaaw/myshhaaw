@@ -1,81 +1,29 @@
-# Mysha Abrol
+# 𝙼𝚈𝚂𝙷𝙰.exe 👾
 
-### AI/ML Engineer · Generative AI · Deep Learning
+### AI / ML Engineer · Generative AI · Deep Learning
 
-I build intelligent systems that turn machine learning research into
-usable products.
+> Building intelligent systems that turn machine learning into real-world products.
 
-Currently focused on:
-- Generative AI & LLM applications
-- Deep Learning & Computer Vision
-- Multimodal AI
-- ML systems and deployment
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mysha%20Abrol-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mysha-abrol-545b6a30b/)
+[![GitHub](https://img.shields.io/badge/GitHub-myshhaaw-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/myshhaaw)
+[![LeetCode](https://img.shields.io/badge/LeetCode-myshhaaw-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/myshhaa/)
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 ABOUT_ME
 
-### 🧠 NeuroScan
-**Multimodal Parkinson's Disease Detection System**
+```yaml
+name: Mysha Abrol
+role: AI / ML Engineer
+focus:
+  - Generative AI
+  - Deep Learning
+  - Computer Vision
+  - Neural Networks
+  - Machine Learning
 
-An experimental multimodal ML system combining:
-- MRI image analysis
-- Tremor/video analysis
-- Handwriting & scribble analysis
-- Multimodal prediction
-
-**Stack:** Python · PyTorch · CNNs · Computer Vision · Streamlit
-
-[View Project →](YOUR_LINK)
-
----
-
-### 💼 InternGo
-**Intelligent Internship Recommendation System**
-
-A recommendation engine that matches users with relevant
-internship opportunities using machine learning.
-
-**Stack:** Python · Scikit-learn · Clustering · Logistic Regression · Pandas
-
-[View Project →](YOUR_LINK)
-
----
-
-### 🌐 AWS Route 53 Clone
-**DNS Management & Routing Platform**
-
-A full-stack implementation inspired by AWS Route 53,
-designed to understand DNS records, routing logic and
-cloud-style infrastructure.
-
-**Stack:** Python · FastAPI · React · AWS · Docker
-
-[View Project →](YOUR_LINK)
-
----
-
-## 🧰 Technical Skills
-
-**Languages**
-Python · C++ · JavaScript
-
-**Machine Learning**
-Scikit-learn · Regression · Clustering · Classification
-
-**Deep Learning**
-PyTorch · TensorFlow · CNNs · Neural Networks
-
-**AI**
-Generative AI · LLM Applications · Computer Vision · NLP
-
-**Data**
-NumPy · Pandas · Matplotlib
-
-**Development**
-Git · GitHub · Streamlit · FastAPI · REST APIs
-
-**Cloud & Deployment**
-AWS · Docker
-
----
+currently_building:
+  - AI-powered applications
+  - Multimodal ML systems
+  - Intelligent recommendation systems
+  - Full-stack AI products
