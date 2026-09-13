@@ -13,6 +13,14 @@
 <a href="https://github.com/myshhaaw">
 <img src="https://img.shields.io/badge/GitHub-myshhaaw-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
+<a href="mailto:myshaaabrol@gmail.com">
+<img src="https://img.shields.io/badge/Personal%20Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="./Mysha_Abrol_Resume.pdf">
+<img src="https://img.shields.io/badge/Resume-View-111111?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
 
 </p>
 
