@@ -79,16 +79,3 @@ Git · GitHub · Streamlit · FastAPI · REST APIs
 AWS · Docker
 
 ---
-
-## 🧪 What I Like Building
-
-```text
-AI Research
-    ↓
-Machine Learning Model
-    ↓
-Backend / API
-    ↓
-Product Interface
-    ↓
-Deployment
