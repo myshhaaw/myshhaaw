@@ -23,8 +23,8 @@ Deep Learning, Generative AI, and Computer Vision**.
 
 </p>
 
-**Languages & Data**  
-Python · NumPy · Pandas
+**Languages & Concepts**  
+Python · C++ · OOPS
 
 **Machine Learning**  
 Scikit-learn · Classification · Regression · Clustering
@@ -36,7 +36,7 @@ PyTorch · TensorFlow · CNNs · Neural Networks
 Generative AI · Computer Vision · Deep Learning
 
 **Development**  
-Streamlit · Git · GitHub
+Streamlit · Git · Docker 
 
 ---
 
